@@ -3,7 +3,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Nicolas%20&section=header&textBg=false&fontColor=000000&reversal=false&fontSize=111&fontAlignY=48&animation=fadeIn&desc=Desarrolador%20&descAlignY=65"
+  src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Nicolas%20L&section=header&animation=fadeIn&fontColor=FFFFFF"
 />
 
 <a href="https://git.io/typing-svg">
@@ -23,6 +23,15 @@
 <!--[Profile Views](https://komarev.com/ghpv/?username=Nicolasld222&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL)-->
 
 </div>
+---
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
 
 ---
 
@@ -51,17 +60,6 @@ Sigo mejorando mis habilidades en desarrollo de software, infraestructura y cibe
 </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
 
 ---
 
@@ -127,6 +125,6 @@ Cybersecurity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&textBg=false&fontColor=000000&reversal=false&fontSize=111&fontAlignY=48&animation=fadeIn&descAlignY=65&strokeWidth=26"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=GOOD%20LUCK&section=footer&animation=fadeIn&fontColor=FFFFFF&fontSize=15&fontAlignY=65"/>
 
 </div>

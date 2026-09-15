@@ -3,7 +3,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nicolas%20Londoño&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%7C%20Full%20Stack&descAlignY=55&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Nicolas%20&section=header&textBg=false&fontColor=000000&reversal=false&fontSize=111&fontAlignY=48&animation=fadeIn&desc=Desarrolador%20&descAlignY=65"
 />
 
 <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
 <!-- 🔧 TODO: reemplaza estos enlaces con los tuyos reales antes de publicar -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-londo%C3%B1o-diaz-a3a051269/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/n.l.d_10)
-Z[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
 
 <!--[Profile Views](https://komarev.com/ghpv/?username=Nicolasld222&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL)-->
 
@@ -31,7 +31,7 @@ Z[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-bad
 Software Developer 🇨🇴 enfocado en **desarrollo Backend y Full Stack**. Me interesa construir aplicaciones **seguras, escalables y bien documentadas**, desde la base de datos hasta la API.
 
 - 💻 PHP, Laravel, Java, Spring Boot, JavaScript & TypeScript
-- ⚛️ React & Tailwind CSS
+- ⚛️ React & Angular & Tailwind CSS
 - 🗄️ SQL, PostgreSQL, MySQL & SQL Server
 - 🔌 REST APIs, JWT & arquitectura de microservicios
 - 🐧 Linux / Ubuntu Server
@@ -61,38 +61,6 @@ Sigo mejorando mis habilidades en desarrollo de software, infraestructura y cibe
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
 </picture>
-</p>
-
-> ⚠️ Esta animación solo se ve una vez que actives el GitHub Action correspondiente en tu repositorio `Nicolasld222/Nicolasld222` (ver instrucciones abajo en el chat / archivo `snake.yml`).
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/Nicolasld222">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Nicolasld222&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-  />
-</a>
-
-<a href="https://github.com/Nicolasld222">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasld222&layout=donut&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
-  />
-</a>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nicolasld222&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 ---
@@ -145,7 +113,7 @@ Databases & SQL
 Linux & Servers
 ███████████████░░░░░░░ 70%
 
-Docker & Infrastructure
+Infrastructure
 ████████████░░░░░░░░░░ 60%
 
 Cloud
@@ -159,6 +127,6 @@ Cybersecurity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&textBg=false&fontColor=000000&reversal=false&fontSize=111&fontAlignY=48&animation=fadeIn&descAlignY=65&strokeWidth=26"/>
 
 </div>

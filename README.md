@@ -1,101 +1,113 @@
-<!-- Header -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Nicolas Londoño</h1>
-    </summary>
-  </ul>
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nicolas%20Londoño&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%7C%20Full%20Stack&descAlignY=55&descSize=18"
+/>
+
+<a href="https://git.io/typing-svg">
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;PHP+%7C+Laravel+%7C+Java+%7C+Spring+Boot;React+%7C+SQL+%7C+PostgreSQL;Linux+%7C+Docker+%7C+Cloud;Learning+Ethical+Hacking+%F0%9F%94%90"
+  alt="Typing SVG"
+/>
+
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- About Me -->
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-  Software Developer focused on Backend & Full Stack development.
-  <br>
-  PHP • Laravel • Java • Spring Boot • React • SQL • PostgreSQL
-  <br>
-  Currently learning Linux • Docker • Cloud • Ethical Hacking
-  <br>
-  Interested in Secure Software Development & Cybersecurity 🔐
-</p>
+I'm a Software Developer focused on **Backend and Full Stack development**.
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+- 💻 PHP, Laravel, Java, Spring Boot, JavaScript & TypeScript
+- ⚛️ React & Tailwind CSS
+- 🗄️ SQL, PostgreSQL, MySQL & SQL Server
+- 🔌 REST APIs & Web Services
+- 🐧 Linux / Ubuntu Server
+- 🐳 Docker & Docker Compose
+- ☁️ Cloud & Application Deployment
+- 🔐 Currently learning Ethical Hacking & Secure Software Development
 
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=dark&show_icons=true&count_private=true"
-          alt="GitHub Stats"
-        />
-        <br><br>
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false"
-          alt="GitHub Streak"
-        />
-      </td>
+I'm interested in building **secure, scalable and efficient applications** while continuously improving my skills in software development, infrastructure and cybersecurity.
 
-      <td width="50%" align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&layout=compact&langs_count=10"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
-</p>
+---
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Technologies -->
-<h2 align="center">🛠️ Technologies & Tools</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,react,html,css,tailwind,postgres,mysql,docker,linux,git,github,postman,vscode,idea,azure&perline=10" />
-  </a>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,react,tailwind,html,css,postgres,mysql,docker,linux,git,github,postman,vscode,idea,azure&perline=10" />
+</a>
+
 </p>
 
-<!-- Currently Learning -->
-<h2 align="center">📚 Currently Learning</h2>
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  🐧 Linux & Ubuntu Server
-  <br>
-  🐳 Docker & Docker Compose
-  <br>
-  ☁️ Cloud & Infrastructure
-  <br>
-  🔐 Ethical Hacking & Cybersecurity
-  <br>
-  🛡️ Secure Software Development
+
+<a href="https://github.com/Nicolasld222">
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Nicolasld222&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+/>
+</a>
+
+<a href="https://github.com/Nicolasld222">
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasld222&layout=donut&theme=github_dark&hide_border=true&langs_count=8"
+/>
+</a>
+
 </p>
 
-<!-- Projects -->
-<h2 align="center">🚀 Featured Project</h2>
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <b>UBIK</b> – Web platform for motel management and reservations.
-  <br><br>
-  Java • Spring Boot • PostgreSQL • React • Tailwind CSS • Docker • REST APIs
+
+<img
+  src="https://streak-stats.demolab.com/?user=Nicolasld222&theme=github-dark-blue&hide_border=true"
+/>
+
 </p>
 
-<!-- Connect -->
-<h2 align="center">🤝 Connect With Me</h2>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-londo%C3%B1o-diaz-a3a051269/" target="_blank">
-    <img 
-      src="https://skillicons.dev/icons?i=linkedin"
-      alt="LinkedIn"
-      height="50"
-    />
-  </a>
-</p>
+## 🚀 Featured Project
+
+### 🏨 UBIK — Motel Reservation Platform
+
+Full-stack web platform focused on motel discovery, room management and reservations.
+
+**Technologies:**
+
+`Java` `Spring Boot` `PostgreSQL` `React` `Tailwind CSS` `REST API` `JWT` `Docker` `Linux`
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Backend Development
+████████████████████░░ 90%
+
+Databases & SQL
+███████████████████░░░ 85%
+
+Linux & Servers
+███████████████░░░░░░░ 70%
+
+Docker & Infrastructure
+████████████░░░░░░░░░░ 60%
+
+Cloud
+██████████░░░░░░░░░░░░ 50%
+
+Cybersecurity
+████████░░░░░░░░░░░░░░ 40%

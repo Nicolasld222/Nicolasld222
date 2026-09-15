@@ -7,41 +7,63 @@
 />
 
 <a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;PHP+%7C+Laravel+%7C+Java+%7C+Spring+Boot;React+%7C+SQL+%7C+PostgreSQL;Linux+%7C+Docker+%7C+Cloud;Learning+Ethical+Hacking+%F0%9F%94%90"
-  alt="Typing SVG"
-/>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%87%A8%F0%9F%87%B4;PHP+%7C+Laravel+%7C+Java+%7C+Spring+Boot;React+%7C+SQL+%7C+PostgreSQL;Linux+%7C+Docker+%7C+Azure;Learning+Ethical+Hacking+%F0%9F%94%90"
+    alt="Typing SVG"
+  />
+</a>
+
+<br/>
+
+<!-- 🔧 TODO: reemplaza estos enlaces con los tuyos reales antes de publicar -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-londo%C3%B1o-diaz-a3a051269/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/n.l.d_10)
+Z[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
+
+<!--[Profile Views](https://komarev.com/ghpv/?username=Nicolasld222&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL)-->
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-I'm a Software Developer focused on **Backend and Full Stack development**.
+Software Developer 🇨🇴 enfocado en **desarrollo Backend y Full Stack**. Me interesa construir aplicaciones **seguras, escalables y bien documentadas**, desde la base de datos hasta la API.
 
 - 💻 PHP, Laravel, Java, Spring Boot, JavaScript & TypeScript
 - ⚛️ React & Tailwind CSS
 - 🗄️ SQL, PostgreSQL, MySQL & SQL Server
-- 🔌 REST APIs & Web Services
+- 🔌 REST APIs, JWT & arquitectura de microservicios
 - 🐧 Linux / Ubuntu Server
 - 🐳 Docker & Docker Compose
-- ☁️ Cloud & Application Deployment
-- 🔐 Currently learning Ethical Hacking & Secure Software Development
+- ☁️ Azure & despliegue de aplicaciones
+- 🔐 Actualmente aprendiendo Ethical Hacking & Secure Software Development
 
-I'm interested in building **secure, scalable and efficient applications** while continuously improving my skills in software development, infrastructure and cybersecurity.
+Sigo mejorando mis habilidades en desarrollo de software, infraestructura y ciberseguridad.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,react,tailwind,html,css,postgres,mysql,docker,linux,git,github,postman,vscode,idea,azure&perline=10" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,react,tailwind,html,css,postgres,mysql,docker,linux,git,github,postman,vscode,idea,azure&perline=10" />
 </a>
-
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nicolasld222/Nicolasld222/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
+> ⚠️ Esta animación solo se ve una vez que actives el GitHub Action correspondiente en tu repositorio `Nicolasld222/Nicolasld222` (ver instrucciones abajo en el chat / archivo `snake.yml`).
 
 ---
 
@@ -50,19 +72,27 @@ I'm interested in building **secure, scalable and efficient applications** while
 <p align="center">
 
 <a href="https://github.com/Nicolasld222">
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Nicolasld222&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Nicolasld222&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+  />
 </a>
 
 <a href="https://github.com/Nicolasld222">
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasld222&layout=donut&theme=github_dark&hide_border=true&langs_count=8"
-/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasld222&layout=donut&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
+  />
 </a>
 
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nicolasld222&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 ---
@@ -70,24 +100,36 @@ I'm interested in building **secure, scalable and efficient applications** while
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Nicolasld222&theme=github-dark-blue&hide_border=true"
-/>
-
+<img src="https://streak-stats.demolab.com/?user=Nicolasld222&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Proyecto Destacado
 
-### 🏨 UBIK — Motel Reservation Platform
+### 🏨 UBIK — Plataforma de Reservas de Moteles
 
-Full-stack web platform focused on motel discovery, room management and reservations.
+Plataforma full-stack enfocada en descubrimiento de moteles, gestión de habitaciones y reservas, construida con una **arquitectura de microservicios**.
 
-**Technologies:**
+- 🔐 Autenticación **JWT** centralizada a través de un **API Gateway**
+- 🧩 Servicios independientes para usuarios, moteles/habitaciones, notificaciones y pagos
+- 🏗️ Arquitectura **hexagonal (puertos y adaptadores)** para desacoplar la lógica de negocio de la infraestructura
+- 🖼️ Gestión de imágenes con **Cloudinary**
+- 🐳 Contenerizado con **Docker** y desplegado en **Azure**
 
-`Java` `Spring Boot` `PostgreSQL` `React` `Tailwind CSS` `REST API` `JWT` `Docker` `Linux`
+**Tecnologías:**
+
+`Java` `Spring Boot` `PostgreSQL` `React` `Tailwind CSS` `REST API` `JWT` `Microservicios` `Docker` `Azure` `Linux`
+
+---
+
+## 📂 Más proyectos
+
+<p align="center">
+<a href="https://github.com/Nicolasld222?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
@@ -111,3 +153,12 @@ Cloud
 
 Cybersecurity
 ████████░░░░░░░░░░░░░░ 40%
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>

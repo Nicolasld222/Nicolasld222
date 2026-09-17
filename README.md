@@ -23,7 +23,7 @@
 <!--[Profile Views](https://komarev.com/ghpv/?username=Nicolasld222&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL)-->
 
 </div>
----
+
 
 <p align="center">
 <picture>
